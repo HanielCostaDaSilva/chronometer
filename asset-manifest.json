@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/chronometer/static/css/main.073c9b0a.css",
+    "main.js": "/chronometer/static/js/main.ab84f193.js",
+    "static/js/787.8cb7f439.chunk.js": "/chronometer/static/js/787.8cb7f439.chunk.js",
+    "static/media/logo.svg": "/chronometer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/chronometer/index.html",
+    "main.073c9b0a.css.map": "/chronometer/static/css/main.073c9b0a.css.map",
+    "main.ab84f193.js.map": "/chronometer/static/js/main.ab84f193.js.map",
+    "787.8cb7f439.chunk.js.map": "/chronometer/static/js/787.8cb7f439.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ab84f193.js"
+  ]
+}
