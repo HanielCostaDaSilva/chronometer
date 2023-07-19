@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/chronometer/static/css/main.073c9b0a.css",
-    "main.js": "/chronometer/static/js/main.ab84f193.js",
-    "static/js/787.8cb7f439.chunk.js": "/chronometer/static/js/787.8cb7f439.chunk.js",
-    "static/media/logo.svg": "/chronometer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/chronometer/static/css/main.ed5ab04a.css",
+    "main.js": "/chronometer/static/js/main.b0e17231.js",
+    "static/media/chronometer.png": "/chronometer/static/media/chronometer.002e258cf2c3b6cd353c.png",
     "index.html": "/chronometer/index.html",
-    "main.073c9b0a.css.map": "/chronometer/static/css/main.073c9b0a.css.map",
-    "main.ab84f193.js.map": "/chronometer/static/js/main.ab84f193.js.map",
-    "787.8cb7f439.chunk.js.map": "/chronometer/static/js/787.8cb7f439.chunk.js.map"
+    "main.ed5ab04a.css.map": "/chronometer/static/css/main.ed5ab04a.css.map",
+    "main.b0e17231.js.map": "/chronometer/static/js/main.b0e17231.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.ab84f193.js"
+    "static/css/main.ed5ab04a.css",
+    "static/js/main.b0e17231.js"
   ]
 }
