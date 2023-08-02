@@ -21,9 +21,9 @@ class Chronomether extends Component {
         <span id='ChronoTime'>{this.state.numero.toFixed(2)}</span>
 
         <div className='buttonBox'>
-          <a href='#' className='buttons' onClick={this.iniciar}> Iniciar</a>
-          <a href='#' className='buttons' onClick={this.parar}> Parar</a>
-          <a href='#' className='buttons' onClick={this.zerar}> Zerar</a>
+          <button className='buttons' onClick={this.iniciar}> Iniciar</button>
+          <button className='buttons' onClick={this.parar}> Parar</button>
+          <button className='buttons' onClick={this.zerar}> Zerar</button>
         </div>
       </div>
     );
