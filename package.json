@@ -35,14 +35,17 @@
       "last 1 safari version"
     ]
   },
-
   "author": {
     "name": "Haniel Costa da Silva",
     "email": "HanielCosta.ti@gmail.com"
   },
   "keywords": [
-    "chronometer","time","beginner"
+    "chronometer",
+    "time",
+    "beginner"
   ],
-  "repository": "https://github.com/HanielCostaDaSilva/chronometer"
-
+  "repository": "https://github.com/HanielCostaDaSilva/chronometer",
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+  }
 }
